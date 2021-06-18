@@ -82,7 +82,7 @@
                 "description": "",
                 "health": 7993,
                 "echoes": 20460,
-                "image": "https://static.wikia.nocookie.net/bloodborne/images/f/f8/Shadow_of_Yharnam_concept_art.jpg/revision/latest?cb=20180728144221"
+                "image": "https://static.wikia.nocookie.net/bloodborne/images/f/f8/Shadow_of_Yharnam_concept_art.jpg"
             },
             {
                 "name": "Rom, the Vacuous Spider",
@@ -94,7 +94,7 @@
                 "description": "",
                 "health": 5058,
                 "echoes": 24860,
-                "image": "https://static.wikia.nocookie.net/bloodborne/images/7/76/Rom%2C_the_Vacuous_Spider_concept_art.jpg/revision/latest?cb=20180728141844"
+                "image": "https://static.wikia.nocookie.net/bloodborne/images/7/76/Rom%2C_the_Vacuous_Spider_concept_art.jpg"
             },
             {
                 "name": "Martyr Logarius",
@@ -106,7 +106,7 @@
                 "description": "",
                 "health": 9081,
                 "echoes": 25600,
-                "image": "https://static.wikia.nocookie.net/bloodborne/images/e/ea/Martyr_Logarius_concept_art_1.jpg/revision/latest?cb=20180728134907"
+                "image": "https://static.wikia.nocookie.net/bloodborne/images/e/ea/Martyr_Logarius_concept_art_1.jpg"
             },
             {
                 "name": "Celestial Emissary",
@@ -118,7 +118,7 @@
                 "description": "",
                 "health": 2764,
                 "echoes": 24640,
-                "image": "https://static.wikia.nocookie.net/bloodborne/images/6/6c/Celestial_Emissary_concept_art.jpg/revision/latest?cb=20181017183529"
+                "image": "https://static.wikia.nocookie.net/bloodborne/images/6/6c/Celestial_Emissary_concept_art.jpg"
             },
             {
                 "name": "Ebrietas, Daughter of the Cosmos",
@@ -142,7 +142,7 @@
                 "description": "",
                 "health": 10375,
                 "echoes": 36300,
-                "image": "https://static.wikia.nocookie.net/bloodborne/images/4/4b/The_One_Reborn_concept_art_1.jpg/revision/latest?cb=20180728145742"
+                "image": "https://static.wikia.nocookie.net/bloodborne/images/4/4b/The_One_Reborn_concept_art_1.jpg"
             },
             {
                 "name": "Amygdala",
@@ -202,7 +202,7 @@
                 "description": "",
                 "health": 8909,
                 "echoes": 230000,
-                "image": "https://static.wikia.nocookie.net/bloodborne/images/1/17/2c05bd4e41c3561adaf79fd419cb5aaa.jpg/revision/latest?cb=20170602095512"
+                "image": "https://static.wikia.nocookie.net/bloodborne/images/1/17/2c05bd4e41c3561adaf79fd419cb5aaa.jpg"
             },
             {
                 "name": "Ludwig, the Accursed/Holy Blade",
