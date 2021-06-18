@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function getBoss() {
     fetch('http://localhost:3000/bloodborne')
     .then(res => res.json())
-    .then(boss => boss.forEach(renderBossInfo))
+    .then(boss => console.log(boss.forEach(renderBossInfo)))
 }
 
 function renderBossInfo(boss) {
