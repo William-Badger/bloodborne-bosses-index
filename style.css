@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    max-height: initial;
+    
+}
+
+#tab {
+    position: absolute;
+    background-color: rgb(173,0,0);
+    display: block;
+    border: none;
+    width: 150px;
+    height:auto;
+}
+
+#tab button {
+    display: block;
+    background-color: inherit;
+    color: white;
+    padding: 22px 16px;
+    width: 145px;
+    height: 100px;
+    border: white 1px solid;
+    outline: black 0px solid;
+    text-align: left;
+    cursor:pointer;
+    font-size: 20px;
+}
+
+body {
+    margin: 0px;
+    border:none;
+}
+#menu {
+    height: 131px;
+    color: white;
+    border:none;
+    background-color: rgb(173, 0, 0);
+}
+
+#menu h1{
+    font-size: 75px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    text-align: center;
+    border: none;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+#menu ul {
+    font-weight: bold;
+    width: 250px;
+    color: black;
+    font-size: 25px;
+    border:none;
+}
+
+#menu ul span {
+    font-weight: bold;
+    width: 1000px;
+    color: white;
+    font-size: 25px;
+    border:none;
+}
+
+#boss-info {
+    float:none;
+    text-align: center;
+    font-size: 25px;
+}
+
+#boss-info h2 {
+    color: rgb(173,0,0);
+    font-size: 75px;
+    padding-bottom: 0cm;
+}
+
+#boss-info img {
+    width:600px;
+    border:rgb(173, 0, 0) 5px solid;
+}
